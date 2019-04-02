@@ -1,6 +1,6 @@
 {
   "homepage": "https://iambro.github.io/Fit-Calculator-React/",
-  "name": "fcr",
+  "name": "fit-calculator-react",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
