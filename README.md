@@ -3,6 +3,7 @@
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
+* [Live page](#live-page)
 
 ## General info
 An application calculating estimated energy requirements. It is also provide some simple guidelines to set and reach your goals.
@@ -14,3 +15,5 @@ Project is created with:
 * JavaScript
 * React
 
+## Live page
+https://iambro.github.io/Fit-Calculator-React/
